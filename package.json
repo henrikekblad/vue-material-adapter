@@ -108,7 +108,7 @@
     "clean-webpack-plugin": "^2.0.1",
     "commitlint": "^7.5.2",
     "concurrently": "^4.1.0",
-    "copy-webpack-plugin": "^5.0.1",
+    "copy-webpack-plugin": "^5.0.2",
     "cp-file": "^6.1.0",
     "cross-env": "^5.2.0",
     "css-loader": "^2.1.1",
