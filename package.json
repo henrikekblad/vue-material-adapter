@@ -114,7 +114,7 @@
     "cross-env": "^5.2.0",
     "css-loader": "^2.1.1",
     "cssnano": "^4.1.10",
-    "dart-sass": "^1.17.3",
+    "dart-sass": "^1.18.0",
     "del-cli": "^1.1.0",
     "eslint": "^5.15.3",
     "eslint-config-prettier": "^4.1.0",
